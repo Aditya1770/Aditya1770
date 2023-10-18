@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1085232259818336306/1158054891307143178/wallhaven-57kw99_1920x1080.png?ex=653e72a9&is=652bfda9&hm=2826f1e54fa163312ff4756a4ce64f77b7e7afd3a2c38f3e3186aa33d240cca8&=&width=1209&height=680)](#)
 <h1 align="center">Myself Aditya</h1>
 <h3 align="center">Linux Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 
 <h3 align="left">Connect with me:</h3>
